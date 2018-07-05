@@ -1,0 +1,10 @@
+column,length,start
+dept_name,30,0
+dept_number,3,30
+unit_name,30,33
+first_name,15,72
+last_name,20,87
+title,20,107
+location,15,127
+phone,10,142
+phone_type,1,152

@@ -1,0 +1,40 @@
+{
+  "fields": [
+    {
+      "name": "dept_name",
+      "type": "string"
+    },
+    {
+      "name": "dept_number",
+      "type": "integer"
+    },
+    {
+      "name": "unit_name",
+      "type": "string"
+    },
+    {
+      "name": "first_name",
+      "type": "string"
+    },
+    {
+      "name": "last_name",
+      "type": "string"
+    },
+    {
+      "name": "title",
+      "type": "string"
+    },
+    {
+      "name": "location",
+      "type": "string"
+    },
+    {
+      "name": "phone",
+      "type": "string"
+    },
+    {
+      "name": "phone_type",
+      "type": "integer"
+    }
+  ]
+}
